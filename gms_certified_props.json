@@ -1,15 +1,15 @@
 {
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 7",
-  "FINGERPRINT": "google/panther_beta/panther:16/BP31.250610.009/13905196:user/release-keys",
-  "PRODUCT": "panther_beta",
-  "DEVICE": "panther",
-  "SECURITY_PATCH": "2025-07-05",
+  "MODEL": "Pixel 10 Pro XL",
+  "FINGERPRINT": "google/mustang_beta/mustang:16/CP11.251209.007.A1/14691868:user/release-keys",
+  "PRODUCT": "mustang_beta",
+  "DEVICE": "mustang",
+  "SECURITY_PATCH": "2026-01-05",
   "DEVICE_INITIAL_SDK_INT": "32",
   "BRAND": "google",
-  "RELEASE": "16/BP31.250610.009/13905196",
-  "ID": "BP31.250610.009",
-  "INCREMENTAL": "13905196",
+  "RELEASE": "16/CP11.251209.007.A1/14691868",
+  "ID": "CP11.251209.007.A1",
+  "INCREMENTAL": "14691868",
   "TYPE": "user",
   "TAGS": "release-keys"
 }
